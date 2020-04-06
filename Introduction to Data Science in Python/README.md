@@ -5,4 +5,6 @@
 - Type of (lambda x:x+1) returns <class 'function'>
 - epoch refers to Janurary 1, year 1970
 
-2. Week 2 [Basic Data Processing with Pandas]()
+2. Week 2 [Basic Data Processing with Pandas](Assignment+2_my_answer.ipynb)
+Others answer
+https://github.com/sidsriv/Introduction-to-Data-Science-in-python/blob/master/Assignment%2B2.ipynb
