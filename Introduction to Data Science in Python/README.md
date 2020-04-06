@@ -4,3 +4,5 @@
 - List can contains different types of data. you can store any type inside a list unlike in the "olden days" when other languages had arrays that only wanted one type of data stored in them
 - Type of (lambda x:x+1) returns <class 'function'>
 - epoch refers to Janurary 1, year 1970
+
+2. Week 2 [Basic Data Processing with Pandas]()
