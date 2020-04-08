@@ -8,3 +8,7 @@
 2. Week 2 [Basic Data Processing with Pandas](Assignment+2_my_answer.ipynb)
 - Others answer
 https://github.com/sidsriv/Introduction-to-Data-Science-in-python/blob/master/Assignment%2B2.ipynb
+
+3. Week 3 [Advanced Python Pandas](Assignment+3.ipynb)
+- Others answer
+https://github.com/sidsriv/Introduction-to-Data-Science-in-python/blob/master/Assignment%2B3%20.ipynb
