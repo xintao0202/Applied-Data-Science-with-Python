@@ -12,4 +12,4 @@ Key Concepts
 - Manipulate data to get the minimum and maximum temperature
 - Demonstrate procedure of composite charts
 
-Assignment: [Plotting Weather Patterns](Assignment2.ipynb)
+  Assignment: [Plotting Weather Patterns](Assignment2.ipynb)
