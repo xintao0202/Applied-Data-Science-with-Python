@@ -13,3 +13,13 @@ Key Concepts
 - Demonstrate procedure of composite charts
 
   Assignment: [Plotting Weather Patterns](Assignment2.ipynb)
+
+Week 3: Charting Fundamentals
+Key Concepts
+- Build more complex features using base features (i.e., artists)
+- Create new ways of visualizing the data by expanding the matplotlib codebase 
+- Use subplots to combine plots into a single figure
+- Create insightful plots such as histograms, box plots, and histograms 
+- Create animated and interactive visualizations
+
+  Assignment: 
