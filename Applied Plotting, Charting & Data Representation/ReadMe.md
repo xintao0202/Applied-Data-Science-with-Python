@@ -22,4 +22,13 @@ Key Concepts
 - Create insightful plots such as histograms, box plots, and histograms 
 - Create animated and interactive visualizations
 
-  Assignment: 
+  Assignment: [Becoming a Custom Visualization](Assignment3.ipynb)
+
+Week 4: Applied Visualizations
+Key Concepts
+- Identify two publicly accessible datasets from the same region that are consistent across a meaningful dimension
+- State a research question that can be answered using two publicly accessible datasets
+- Create a visual using matplotlib that addresses your stated research question
+- Justify how the visual addresses your research question
+
+Assignment: [Becoming an Indepedent Data Scientist](Assignment4.ipynb)
