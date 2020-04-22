@@ -47,6 +47,7 @@ Course link https://www.coursera.org/learn/python-machine-learning/home/welcome
      d. Recognize and avoid instances of data leakage
 
     [Assignment 4](Assignment+4.ipynb)
-    https://github.com/amirkeren/applied-machine-learning-in-python/blob/master/Assignment%2B4.ipynb
     
     Alternative solution (better score) 
+    https://github.com/amirkeren/applied-machine-learning-in-python/blob/master/Assignment%2B4.ipynb
+    
