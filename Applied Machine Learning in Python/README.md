@@ -37,3 +37,16 @@ Course link https://www.coursera.org/learn/python-machine-learning/home/welcome
     c. Optimize a machine learning algorithm using a specific evaluation metric appropriate for a given task
      
     [Assignment 3](Assignment+3.ipynb)
+    
+4. Supervised Machine Learning - Part 2
+   
+    Key Concepts
+     a. Understand how specific supervised learning algorithms - in particular, those based on decision trees and neural networks - estimate their own parameters from data to make new predictions.
+     b. Apply the right algorithm for a given task by understanding the strengths and weaknesses of additional supervised learning methods.
+     c. Apply additional types of supervised machine learning algorithms in Python with scikit-learn.
+     d. Recognize and avoid instances of data leakage
+
+    [Assignment 4](Assignment+4.ipynb)
+    https://github.com/amirkeren/applied-machine-learning-in-python/blob/master/Assignment%2B4.ipynb
+    
+    Alternative solution (better score) 
