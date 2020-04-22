@@ -6,4 +6,5 @@ Key Concepts
 - Write regular expressions to find textual patterns.
 
 [Assigment 1](Assignment+1.ipynb)
+
 Other solution: https://github.com/agniiyer/Applied-Text-Mining-in-Python/blob/master/Assignment%2B1.ipynb
