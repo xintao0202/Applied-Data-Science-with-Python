@@ -19,3 +19,13 @@ Key Concepts
 [Assigment 2](Assignment+2.ipynb)
 
 Other solution: https://github.com/AadiBhumihar/Applied-Text-Mining-python-Coursera/blob/master/Assignment%2B2.py
+
+Module 3: Classification of Text
+
+Key Concepts
+- Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well)
+- Describe the Naive Bayes and Support Vector Machine algorithms
+- Classify text in two classes using one of these approaches in Python
+- Identify and extract features from text and transform them into feature vectors for the machine learning models
+
+[Assigment 3](Assignment+3.ipynb)
